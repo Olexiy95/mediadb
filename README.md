@@ -16,4 +16,4 @@
 
 ### Model (So Far):
 
-![alt text](./media-db_model.png)
+<img src="./media-db_model.png" alt="Description" width="350" height="500"/>
