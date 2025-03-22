@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.sqlite3
+*.db
+
+csv/
+*.csv
+
+.DS_Store
+
+
+scratch.py
